@@ -29,6 +29,11 @@ button {
     border-radius: 20px;
 }
 
+button a {
+    text-decoration: none;
+    color: white;
+}
+
 button:hover {
     background: blue;
 }
