@@ -25,18 +25,6 @@ Welcome to the **Barang Management Website** – a simple and user-friendly web 
 
 ---
 
-## 📸 Screenshots
-
-![Form Preview](https://via.placeholder.com/600x300.png?text=Form+Preview)  
-*Form to add items*
-
-![Table Preview](https://via.placeholder.com/600x300.png?text=Table+Preview)  
-*Table that displays the added items*
-
-> *(You can replace these placeholders with real screenshots from your project)*
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally:
