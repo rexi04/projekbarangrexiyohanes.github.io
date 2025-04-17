@@ -27,6 +27,7 @@ button {
     border: none;
     cursor: pointer;
     border-radius: 20px;
+    text-decoration: none;
 }
 
 button a {
